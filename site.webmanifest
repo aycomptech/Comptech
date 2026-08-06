@@ -1,9 +1,0 @@
-{
-  "name": "CompTech — Solusi Teknologi",
-  "short_name": "CompTech",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#030405",
-  "theme_color": "#030405",
-  "description": "Service komputer, smartphone, CCTV, internet dan jaringan."
-}
